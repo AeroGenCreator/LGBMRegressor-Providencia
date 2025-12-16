@@ -1,2 +1,3 @@
 # LGBMRegressor-Providencia
-Este repositorio contiene la documentacion del modelo de prediccion para Ferreteria Providencia.
+
+- Aqui se encuentra el notebook de ingeniera de datos y prueba de modelos para Providencia.
